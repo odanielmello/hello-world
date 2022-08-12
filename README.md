@@ -7,5 +7,6 @@ Already a Telecommunications Engineer for 16 years, I am studying Software Engin
 * Python
 * C and C++
 * HTML, CSS, JavaScript (and some React)
+* SQL
 
 I'll see you in the next update.
